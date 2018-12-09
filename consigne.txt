@@ -1,0 +1,4 @@
+Bienvenue dans le projet repoActiviteOC. 
+Ce fichier a pour but de vous donner une consgine : vous devez trouver la solution à ma charade... Celle ci se situe dans un autre fichier texte. Si vous ne le voyez pas : il est dans une version antérieure de mon repo. 
+Ne trichez pas ! N'allez pas voir la V1 de suite, elle vous donnerait la solution !
+
